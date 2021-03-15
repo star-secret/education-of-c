@@ -1,2 +1,2 @@
 # education-of-c
-## sjrnfl
+## study C!
